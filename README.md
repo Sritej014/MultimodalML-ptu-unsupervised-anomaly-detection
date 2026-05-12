@@ -4,7 +4,7 @@ This private repository contains the code, documentation, and experiment trackin
 
 ## Topic
 
-Unsupervised anomaly detection for forming tool condition monitoring using force time-series data and image data.
+Unsupervised anomaly detection for forming tool condition monitoring using Multi-modal Data (for example force time-series data and image data)
 
 ## Repository Structure
 
