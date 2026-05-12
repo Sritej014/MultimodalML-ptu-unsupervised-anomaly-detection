@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+myenv/
+*.env
+
+# Data
+Data/
+data/
+datasets/
+*.tdms
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.csv
+*.xlsx
+
+# Images / large experimental files
+Images/
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+
+# Results that may become large
+results/
+outputs/
+runs/
+wandb/
+mlruns/
+
+# Models / checkpoints
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
